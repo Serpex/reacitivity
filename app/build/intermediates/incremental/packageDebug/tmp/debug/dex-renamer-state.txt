@@ -1,0 +1,4 @@
+#Fri Oct 16 08:32:40 CEST 2020
+base.0=/Users/jasper/Desktop/Reactivity/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

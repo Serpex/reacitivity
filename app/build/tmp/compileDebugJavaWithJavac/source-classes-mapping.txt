@@ -1,0 +1,12 @@
+com/example/jasper/reactivity/MainActivity.java
+ com.example.jasper.reactivity.MainActivity
+ com.example.jasper.reactivity.MainActivity$1
+ com.example.jasper.reactivity.MainActivity$2
+ com.example.jasper.reactivity.MainActivity$2$1
+ com.example.jasper.reactivity.MainActivity$2$2
+ com.example.jasper.reactivity.MainActivity$3
+ com.example.jasper.reactivity.MainActivity$4
+ com.example.jasper.reactivity.MainActivity$4$1
+ com.example.jasper.reactivity.MainActivity$5
+com/example/jasper/reactivity/BuildConfig.java
+ com.example.jasper.reactivity.BuildConfig
